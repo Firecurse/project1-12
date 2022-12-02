@@ -1,4 +1,11 @@
 "Hello world" 
+
+row 1
+row 2
+row 3
+row 4
+row 5
+
 git add =
 git commit - записва промените в repository.
 git push - актуаизира промените към отдаличеното реп.
